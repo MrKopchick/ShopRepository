@@ -21,5 +21,15 @@
             "photo_url": "https://thumbs.dreamstime.com/z/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82-%D1%81-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8-%D0%BF%D0%BE%D1%80%D0%BE%D1%88%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0-%D1%80%D0%B0%D0%B7%D0%B4%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-211688505.jpg",
             "balance": 5678
         }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "name": "Ak47",
+            "photo_url":"https://th.bing.com/th/id/R.e46818b6c06d3b4a6a7a92db6043dac8?rik=4rmcRFRAt2AXqA&riu=http%3a%2f%2fwww.imfdb.org%2fimages%2fa%2fa0%2fAK-47.jpg&ehk=B2nqoO7YpG6Q4FVVQPp9JZbzrG0oCAcf4aEIm1mDJaQ%3d&risl=&pid=ImgRaw&r=0",
+            "price": 400,
+            "description": "не дорогий масажор для тіла, який сцілює імуну і фізичну систему, допомагає рослабитись і завжди несе добро і посмішку!!!",
+            "author_id": 1
+        }
     ]
 }
