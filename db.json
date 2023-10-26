@@ -30,6 +30,14 @@
             "price": 400,
             "description": "не дорогий масажор для тіла, який сцілює імуну і фізичну систему, допомагає рослабитись і завжди несе добро і посмішку!!!",
             "author_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Monika Vanyl figur",
+            "photo_url":"https://fictionary-world.de/cdn/shop/products/x_gsc94713_a_800x.jpg?v=1677767281",
+            "price": 50,
+            "description": "to bring you some happyness",
+            "author_id": 3
         }
     ]
 }
