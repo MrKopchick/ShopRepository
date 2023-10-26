@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id": 1,
+            "name": "Kirilo",
+            "surname": "Budanov",
+            "photo_url": "https://th.bing.com/th/id/OIP.rFSeMoIwe3OYOJCO0n4ETwAAAA?pid=ImgDet&rs=1",
+            "balance": 10000000000
+        }
     ]
 }
