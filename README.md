@@ -1,3 +1,3 @@
 # ShopRepository
-Here we have all things what you need : )
+## Here we have all things what you need :3
 
