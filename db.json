@@ -63,6 +63,14 @@
             "price": 199,
             "description": "можеш купити ауру",
             "author_id": 3
+        },
+        {
+            "id": 6,
+            "name": "leg warmers",
+            "photo_url":"https://img.fruugo.com/product/7/10/560392107_max.jpg",
+            "price": 5.99,
+            "description": "...",
+            "author_id": 2
         }
     ]
 }
