@@ -46,6 +46,23 @@
             "price": 5,
             "description": "відлякує котів, а ще смачний",
             "author_id": 2
+        },
+        
+        {
+            "id": 4,
+            "name": "Fanko pop 'ronin'" ,
+            "photo_url":"https://api.worldofcomics.ua/file-manager-thumb/13533/36976-564x564.webp",
+            "price": 750,
+            "description": "декор для твого убитого столу",
+            "author_id": 1
+        },
+        {
+            "id": 5,
+            "name": "1000 V-bucks",
+            "photo_url":"https://images.g2a.com/360x600/1x1x1/fortnite-epic-games-key-1000-v-bucks-i10000174299001/6041f9f27e696c3462171012",
+            "price": 199,
+            "description": "можеш купити ауру",
+            "author_id": 3
         }
     ]
 }
